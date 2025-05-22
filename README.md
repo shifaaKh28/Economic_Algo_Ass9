@@ -13,21 +13,23 @@ Given a matrix where:
 It can be decomposed into a weighted sum of **permutation matrices** (perfect matchings).
 ## 🖼️ Sample Output Plots
 
-### 🔸 Step 1: Before Reduction
 
-![Step 1 Before](img/Screenshot%202025-05-22%20224158.png)
+![](img/Screenshot%202025-05-22%20224158.png)
 
-### 🔸 Step 1: After Reduction
+![](img/Screenshot%202025-05-22%20224205.png)
 
-![Step 1 After](img/Screenshot%202025-05-22%20224205.png)
+![](img/Screenshot%202025-05-22%20224213.png)
 
-### 🔸 Step 2: Before Reduction
 
-![Step 2 Before](img/Screenshot%202025-05-22%20224213.png)
 
-### 🔸 Step 2: After Reduction
+![](img/Screenshot%202025-05-22%20224221.png)
 
-![Step 2 After](img/Screenshot%202025-05-22%20224221.png)
+![](img/Screenshot%202025-05-22%20224229.png)
+
+![](img/Screenshot%202025-05-22%20224236.png)
+
+![](img/Screenshot%202025-05-22%20224242.png)
+
 
 ### 🔸 Final Matrix
 
