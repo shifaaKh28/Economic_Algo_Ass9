@@ -11,12 +11,27 @@ Given a matrix where:
 - All entries are non-negative
 
 It can be decomposed into a weighted sum of **permutation matrices** (perfect matchings).
+## 🖼️ Sample Output Plots
 
-This is useful in:
-- Assignment problems
-- Fair division
-- Randomized algorithms
-- Matching markets
+### 🔸 Step 1: Before Reduction
+
+![Step 1 Before](img/Screenshot%202025-05-22%20224158.png)
+
+### 🔸 Step 1: After Reduction
+
+![Step 1 After](img/Screenshot%202025-05-22%20224205.png)
+
+### 🔸 Step 2: Before Reduction
+
+![Step 2 Before](img/Screenshot%202025-05-22%20224213.png)
+
+### 🔸 Step 2: After Reduction
+
+![Step 2 After](img/Screenshot%202025-05-22%20224221.png)
+
+### 🔸 Final Matrix
+
+![Final Matrix](img/Screenshot%202025-05-22%20224333.png)
 
 ---
 
